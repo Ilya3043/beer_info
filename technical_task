@@ -1,1 +1,9 @@
-
+Website : "the List of Beers with the purpose of acquaintance with and taste of this drink, the increase in mobile beer culture"
+You need to offer the user a list of the types of beer, with the choice of a particular variety appears information about him, his taste, and the combination with a certain starter, also there is one of the most popular brand that brews beer varieties.
+The page should contain :
+- A welcome page asking how old the user is, depending on the answer "yes" or "no" the site opens / does not open;
+-17 buttons with text (names of types of beer);
+Pressing a certain button is followed by a transition to the next page containing:
+a) taste characteristics;
+b) a list of products with which this beer is combined;
+c) switching to other varieties if necessary;
